@@ -1,0 +1,28 @@
+{
+  "cell": {
+    "width": 128,
+    "height": 160
+  },
+  "animations": {
+    "walk": {
+      "row": 0,
+      "frames": 6,
+      "delay_ms": 120
+    },
+    "sit": {
+      "row": 1,
+      "frames": 4,
+      "delay_ms": 220
+    },
+    "think": {
+      "row": 2,
+      "frames": 3,
+      "delay_ms": 500
+    },
+    "roll": {
+      "row": 3,
+      "frames": 8,
+      "delay_ms": 150
+    }
+  }
+}
